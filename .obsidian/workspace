@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/变量和简单数据类型.md",
+            "file": "CODEX.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/变量和简单数据类型.md",
+                "file": "CODEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/变量和简单数据类型.md"
+                "file": "CODEX.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "be13bac754913daa",
   "lastOpenFiles": [
-    "python/变量和简单数据类型.md",
-    "README.md",
-    "组织切片多色荧光.md",
     "CODEX.md",
+    "组织切片多色荧光.md",
     "组织冰冻切片如何进行免疫荧光.md",
-    "python/操作列表.md",
-    "python/函数.md",
-    "python/列表简介.md",
     "2.png",
-    "1.png"
+    "1.png",
+    "python/操作列表.md",
+    "python/列表简介.md",
+    "python/字典.md",
+    "python/if语句.md",
+    "python/用户输入和while循环.md"
   ]
 }
