@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "153b68b4afa89b1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "be13bac754913daa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python/变量和简单数据类型.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96326cb5f6ef055a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c72174fb118912bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe93909404a33ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d635dc7d89a3352c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "字符串",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "7a93646f5683b644",
+    "type": "split",
+    "children": [
+      {
+        "id": "c15c2544571c8a42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85cf8cdbfbb13258",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/变量和简单数据类型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca2c53d725ca2105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/变量和简单数据类型.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5,
+    "collapsed": true
+  },
+  "active": "be13bac754913daa",
+  "lastOpenFiles": [
+    "python/变量和简单数据类型.md",
+    "README.md",
+    "组织切片多色荧光.md",
+    "CODEX.md",
+    "组织冰冻切片如何进行免疫荧光.md",
+    "python/操作列表.md",
+    "python/函数.md",
+    "python/列表简介.md",
+    "2.png",
+    "1.png"
+  ]
+}
