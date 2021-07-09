@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "高等数学/逻辑---二值问题.md",
-            "mode": "source"
+            "file": "高等数学/逻辑表达式.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高等数学/逻辑---二值问题.md",
+                "file": "高等数学/逻辑表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/逻辑---二值问题.md"
+                "file": "高等数学/逻辑表达式.md"
               }
             }
           }
@@ -97,6 +97,8 @@
   },
   "active": "be13bac754913daa",
   "lastOpenFiles": [
+    "高等数学/逻辑表达式.md",
+    "P45.md",
     "高等数学/逻辑---二值问题.md",
     "高等数学/未命名.md",
     "机器学习/机器学习实验程序步骤.md",
@@ -104,8 +106,6 @@
     "日记/2021-04-17.md",
     "日记/2021-04-16.md",
     "强化学习/强化学习简介.md",
-    "Latex/latex命令.md",
-    "Latex/未命名.md",
-    "未命名.md"
+    "Latex/latex命令.md"
   ]
 }
