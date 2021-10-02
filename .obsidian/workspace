@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "书目/《机器学习实战》.md",
+            "file": "书目/《python编程：从入门到实践》.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书目/《机器学习实战》.md",
+                "file": "书目/《python编程：从入门到实践》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书目/《机器学习实战》.md"
+                "file": "书目/《python编程：从入门到实践》.md"
               }
             }
           }
@@ -97,15 +97,15 @@
   },
   "active": "be13bac754913daa",
   "lastOpenFiles": [
+    "书目/《python编程：从入门到实践》.md",
     "书目/《机器学习实战》.md",
-    "机器学习/基础概念.md",
-    "机器学习/算法选择.md",
-    "机器学习/机器学习实验程序步骤.md",
-    "高等数学/逻辑表达式.md",
-    "高等数学/逻辑---二值问题.md",
-    "高等数学/程序员的数学1/1ba2e3706500908dee98cd2695865383.png",
+    "Latex/latex命令.md",
     "P45.md",
-    "高等数学/未命名.md",
-    "2021-06-28.md"
+    "CODEX.md",
+    "组织切片多色荧光.md",
+    "组织冰冻切片如何进行免疫荧光.md",
+    "1.png",
+    "机器学习/基础概念.md",
+    "机器学习/算法选择.md"
   ]
 }
