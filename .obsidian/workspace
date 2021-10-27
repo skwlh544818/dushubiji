@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "书目/《python编程：从入门到实践》.md",
+            "file": "高等数学/逻辑表达式.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书目/《python编程：从入门到实践》.md",
+                "file": "高等数学/逻辑表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书目/《python编程：从入门到实践》.md"
+                "file": "高等数学/逻辑表达式.md"
               }
             }
           }
@@ -97,15 +97,15 @@
   },
   "active": "be13bac754913daa",
   "lastOpenFiles": [
-    "书目/《python编程：从入门到实践》.md",
-    "书目/《机器学习实战》.md",
-    "Latex/latex命令.md",
-    "P45.md",
-    "CODEX.md",
-    "组织切片多色荧光.md",
-    "组织冰冻切片如何进行免疫荧光.md",
-    "1.png",
+    "高等数学/逻辑表达式.md",
+    "高等数学/逻辑---二值问题.md",
+    "高等数学/程序员的数学1/7b3342d72e51f0d3c3392d44013333ce.png",
+    "高等数学/程序员的数学1/5b35d035f5aa6e4dbb340d8782f1a1c9.png",
+    "高等数学/程序员的数学1/1ba2e3706500908dee98cd2695865383.png",
+    "机器学习/算法选择.md",
     "机器学习/基础概念.md",
-    "机器学习/算法选择.md"
+    "机器学习/机器学习实验程序步骤.md",
+    "强化学习/强化学习简介.md",
+    "日记/2021-04-16.md"
   ]
 }
