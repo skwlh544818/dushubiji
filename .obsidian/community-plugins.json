@@ -3,5 +3,10 @@
   "templater-obsidian",
   "obsidian-mind-map",
   "obsidian-extract-pdf-highlights",
-  "calendar"
+  "calendar",
+  "oz-image-plugin",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "obsidian-checklist-plugin",
+  "obsidian-admonition"
 ]
