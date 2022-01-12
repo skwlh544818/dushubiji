@@ -97,13 +97,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0390392e3f5ef152",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 352.5
   },
   "active": "0493e75451392ef1",
   "lastOpenFiles": [
