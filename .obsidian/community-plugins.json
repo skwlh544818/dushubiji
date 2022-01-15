@@ -6,7 +6,7 @@
   "oz-image-plugin",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "obsidian-admonition",
   "obsidian-checklist-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-annotator"
 ]
