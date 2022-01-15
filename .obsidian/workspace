@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0493e75451392ef1",
+        "id": "0fd1d0fcaf883e05",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-01-15 14.00.49.excalidraw.md"
+            "file": "机器学习实战2/第一章.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-01-15 14.00.49.excalidraw.md",
+                "file": "机器学习实战2/第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-01-15 14.00.49.excalidraw.md"
+                "file": "机器学习实战2/第一章.md"
               }
             }
           },
@@ -109,19 +111,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 100
   },
-  "active": "0493e75451392ef1",
+  "active": "0fd1d0fcaf883e05",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-01-15 14.00.49.excalidraw.md",
     "机器学习实战2/第一章.md",
+    "Mousavi 等。 - 2019 - Multi-Agent Image Classification via Reinforcement.pdf.md",
+    "Mousavi 等。 - 2019 - Multi-Agent Image Classification via Reinforcement.pdf",
+    "语步分析.pdf.md",
+    "Excalidraw/Drawing 2022-01-15 14.00.49.excalidraw.md",
     "Excalidraw/Drawing 2022-01-05 14.08.59.excalidraw.md",
     "高等数学/逻辑---二值问题.md",
     "机器学习/机器学习实验程序步骤.md",
     "机器学习/算法选择.md",
-    "机器学习/基础概念.md",
-    "高等数学/逻辑表达式.md",
-    "语步分析.pdf",
-    "Highlights for 语步分析.md"
+    "机器学习/基础概念.md"
   ]
 }
