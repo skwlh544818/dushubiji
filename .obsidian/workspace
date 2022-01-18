@@ -7,12 +7,8 @@
         "id": "0fd1d0fcaf883e05",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "机器学习实战2/第一章.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器学习实战2/第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "机器学习实战2/第一章.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,6 +114,7 @@
   },
   "active": "0fd1d0fcaf883e05",
   "lastOpenFiles": [
+    "2022-01-18.md",
     "机器学习实战2/第一章.md",
     "Mousavi 等。 - 2019 - Multi-Agent Image Classification via Reinforcement.pdf.md",
     "Mousavi 等。 - 2019 - Multi-Agent Image Classification via Reinforcement.pdf",
@@ -129,7 +123,6 @@
     "Excalidraw/Drawing 2022-01-05 14.08.59.excalidraw.md",
     "高等数学/逻辑---二值问题.md",
     "机器学习/机器学习实验程序步骤.md",
-    "机器学习/算法选择.md",
-    "机器学习/基础概念.md"
+    "机器学习/算法选择.md"
   ]
 }
