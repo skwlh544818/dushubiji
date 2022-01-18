@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "机器学习实战2/第一章.md",
-            "mode": "preview",
-            "source": true
+            "mode": "source",
+            "source": false
           }
         }
       }
