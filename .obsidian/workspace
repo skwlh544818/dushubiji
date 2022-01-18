@@ -7,8 +7,12 @@
         "id": "0fd1d0fcaf883e05",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "机器学习实战2/第一章.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "机器学习实战2/第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "机器学习实战2/第一章.md"
+              }
             }
           },
           {
@@ -114,8 +121,8 @@
   },
   "active": "0fd1d0fcaf883e05",
   "lastOpenFiles": [
-    "2022-01-18.md",
     "机器学习实战2/第一章.md",
+    "2022-01-18.md",
     "Mousavi 等。 - 2019 - Multi-Agent Image Classification via Reinforcement.pdf.md",
     "Mousavi 等。 - 2019 - Multi-Agent Image Classification via Reinforcement.pdf",
     "语步分析.pdf.md",
